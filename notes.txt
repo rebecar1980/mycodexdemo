@@ -1,2 +1,3 @@
 Today I started learning Git and resolving conflicts.
 I changed this file for Git practice.
+This line will be pushed to GitHub.
