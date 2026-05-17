@@ -3,3 +3,5 @@ I changed this file for Git practice.
 This line will be pushed to GitHub.
 This line was edited on GitHub.
 This line will be fetched first.
+This line was added from demo3 clone.
+
