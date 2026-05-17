@@ -1,6 +1,2 @@
 Today I started learning Git and resolving conflicts.
 I changed this file for Git practice.
-<<<<<<< HEAD
-This line is added on practice branch.
-=======
->>>>>>> parent of d490d92 (Update notes on practice branch)
