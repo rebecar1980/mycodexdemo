@@ -6,3 +6,4 @@ This line will be fetched first.
 This line was added from demo3 clone.
 This line was pushed from demo3 before demo2.
 This line was committed from demo2 without pulling first.
+2026-05-18：练习从最新 master 创建新分支，并在分支上修改 notes.txt。
