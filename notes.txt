@@ -4,4 +4,6 @@ This line will be pushed to GitHub.
 This line was edited on GitHub.
 This line will be fetched first.
 This line was added from demo3 clone.
+This line was committed from demo2 without pulling first.
+
 
